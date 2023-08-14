@@ -1,3 +1,6 @@
+
+![image](https://github.com/sedaakin1/Currency-Converter/assets/99690122/bf3ce526-33f2-488a-a719-de4ebc14f489)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
